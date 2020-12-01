@@ -1,4 +1,4 @@
-# RUL-Estimation-with-LSTM
+# RUL Estimation with LSTM
 
 This implementation follows the research paper published by Zheng et. al. [1] on predicting the Remaining Useful Life of a complex physical system. The dataset used in for this study is the NASA Turbofan Jet Engine Data Set [4,5].
 

@@ -1,6 +1,6 @@
-_pycache_/
+__pycache__/
 .vscode/
-data_loader/_pycache_/
-models/_pycache_/
-trainers/_pycache_/
+data_loader/__pycache__/
+models/__pycache__/
+trainers/__pycache__/
 logs/
