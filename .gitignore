@@ -1,0 +1,6 @@
+_pycache_/
+.vscode/
+data_loader/_pycache_/
+models/_pycache_/
+trainers/_pycache_/
+logs/
